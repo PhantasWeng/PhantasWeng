@@ -16,5 +16,5 @@
   </div>
   </div>
 </div> -->
-[<img src="https://raw.githubusercontent.com/PhantasWeng/PhantasWeng/master/assets/github-readme.jpg" style="width: 100%;"/>](https://raw.githubusercontent.com/PhantasWeng/PhantasWeng/master/assets/github-readme.jpg)
+[<img src="https://raw.githubusercontent.com/PhantasWeng/PhantasWeng/master/assets/readme.jpg" style="width: 100%;"/>](https://raw.githubusercontent.com/PhantasWeng/PhantasWeng/master/assets/readme.jpg)
 
