@@ -1,3 +1,5 @@
+![github-stats](https://github-readme-stats.vercel.app/api?username=PhantasWeng&show_icons=true&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&title_color=F29D38&text_color=F8F8F2&icon_color=FAED88&bg_color=1D1D1D)
+
 <!-- <div style="background: black; padding:8px; width: 100%;dcolor: white;">
   <div style="display: flex;align-items: center;justify-content: space-between;">
     <div style="display: flex;align-items: center;">
@@ -18,3 +20,7 @@
 </div> -->
 [<img src="https://raw.githubusercontent.com/PhantasWeng/PhantasWeng/master/assets/readme.jpg" style="width: 100%;"/>](https://raw.githubusercontent.com/PhantasWeng/PhantasWeng/master/assets/readme.jpg)
 
+![](https://github-readme-stats.vercel.app/api/pin/?username=PhantasWeng&repo=panasonic_smart_app)
+![](https://github-readme-stats.vercel.app/api/pin/?username=PhantasWeng&repo=vue-echo)
+![](https://github-readme-stats.vercel.app/api/pin/?username=PhantasWeng&repo=onDuty.js)
+![](https://github-readme-stats.vercel.app/api/pin/?username=PhantasWeng&repo=coronavirus-daily-dashboard)
