@@ -20,7 +20,8 @@
 </div> -->
 [<img src="https://raw.githubusercontent.com/PhantasWeng/PhantasWeng/master/assets/readme.jpg" style="width: 100%;"/>](https://raw.githubusercontent.com/PhantasWeng/PhantasWeng/master/assets/readme.jpg)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=PhantasWeng&repo=panasonic_smart_app)
+<!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=PhantasWeng&repo=panasonic_smart_app)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=PhantasWeng&repo=vue-echo)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=PhantasWeng&repo=onDuty.js)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=PhantasWeng&repo=coronavirus-daily-dashboard)
+ -->
